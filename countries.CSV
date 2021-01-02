@@ -48,7 +48,7 @@ CC,Cocos (keeling) Islands
 CO,Colombia
 KM,Comoros
 CG,Congo
-"CD,""Congo, The Democratic Republic Of The"""
+CD, The Democratic Republic Of The Congo
 CK,Cook Islands
 CR,Costa Rica
 CI,Cote D'ivoire
@@ -111,8 +111,8 @@ JO,Jordan
 KZ,Kazakstan
 KE,Kenya
 KI,Kiribati
-"KP,""Korea, Democratic People's Republic Of"""
-"KR,""Korea, Republic Of"""
+KP, Democratic People's Republic Of Korea
+KR, Republic Of Korea
 KV,Kosovo
 KW,Kuwait
 KG,Kyrgyzstan
@@ -126,7 +126,7 @@ LI,Liechtenstein
 LT,Lithuania
 LU,Luxembourg
 MO,Macau
-"MK,""Macedonia, The Former Yugoslav Republic Of"""
+MK, The Former Yugoslav Republic Of Macedonia
 MG,Madagascar
 MW,Malawi
 MY,Malaysia
@@ -139,8 +139,8 @@ MR,Mauritania
 MU,Mauritius
 YT,Mayotte
 MX,Mexico
-"FM,""Micronesia, Federated States Of"""
-"MD,""Moldova, Republic Of"""
+FM, Federated States Of Micronesia
+MD,  Republic Of Moldova
 MC,Monaco
 MN,Mongolia
 MS,Montserrat
@@ -165,7 +165,7 @@ NO,Norway
 OM,Oman
 PK,Pakistan
 PW,Palau
-"PS,""Palestinian Territory, Occupied"""
+PS, Palestinian Territory - Occupied
 PA,Panama
 PG,Papua New Guinea
 PY,Paraguay
@@ -209,9 +209,9 @@ SZ,Swaziland
 SE,Sweden
 CH,Switzerland
 SY,Syrian Arab Republic
-"TW,""Taiwan, Province Of China"""
+TW, Taiwan - Province Of China
 TJ,Tajikistan
-"TZ,""Tanzania, United Republic Of"""
+TZ,United Republic Of Tanzania
 TH,Thailand
 TG,Togo
 TK,Tokelau
@@ -232,8 +232,8 @@ UZ,Uzbekistan
 VU,Vanuatu
 VE,Venezuela
 VN,Viet Nam
-"VG,""Virgin Islands, British"""
-"VI,""Virgin Islands, U.s."""
+VG, British Virgin Islands
+VI, U.s. Virgin Islands
 WF,Wallis And Futuna
 EH,Western Sahara
 YE,Yemen
